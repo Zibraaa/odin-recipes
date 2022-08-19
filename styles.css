@@ -1,0 +1,13 @@
+.pagetitle {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: violet;
+}
+
+#frontpic {
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 40%;
+}
