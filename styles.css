@@ -69,7 +69,7 @@ a:active { text-decoration: none; }
 .pagepic {
     text-align: center;
     height: auto;
-    width: 200;
+    width: 400;
 }
 
 .pagedesc {
@@ -89,4 +89,10 @@ a:active { text-decoration: none; }
     font-size: 18px;
     font-weight: 540;
     text-align: center;
+}
+
+.home {
+    color: red;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
 }
