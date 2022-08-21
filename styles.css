@@ -1,13 +1,59 @@
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+
+
+
 .pagetitle {
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     font-family: 'Courier New', Courier, monospace;
-    color: violet;
+    color: black;
 }
 
 #frontpic {
     margin: auto;
     display: block;
     height: auto;
-    width: 40%;
+    width: 700;
+}
+
+#recipe {
+    font-size: 28px;
+    font-weight: 500;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.list {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mac {
+    color: orangered;
+}
+
+.cupcake {
+    color: lightpink;
+}
+
+.chicken {
+    color: crimson;
+}
+
+.pic {
+    width: 250px;
+    height: auto;
 }
